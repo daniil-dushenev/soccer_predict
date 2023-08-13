@@ -23,7 +23,7 @@
  кросс-валидации и смотрим результаты. <br>
  ![image](https://github.com/daniil-dushenev/soccer_predict/assets/44606552/2512425c-d428-4767-b2cb-6b0d76556bac)
 <br>
-![загруженное](https://github.com/daniil-dushenev/soccer_predict/assets/44606552/c0724e98-7162-4188-812a-20cedd2bb3d1)
+![image](https://github.com/daniil-dushenev/soccer_predict/assets/44606552/952ec834-7418-4c0e-93cf-e75f32dde132)
 <br>
 Метрики конечно ужас:see_no_evil:( Ну а чего я ожидал?)
 Теперь обучаем нашу итоговую модель и смотрим точность на тестовой выборке: <br>
